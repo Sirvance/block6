@@ -1,0 +1,47 @@
+header {
+    display: flex;
+    font-size: 2.5cm;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+}
+h1{
+    display: flex;flex-direction: column;
+    font-size: 1.8cm;
+    text-align: center;
+    background-color: darkorange;
+}
+section{
+    font-size: 0.5cm;
+    size: 0.5cm;
+    display: flex;
+    padding-block-start: 0.7cm;
+    padding-bottom: 0.3cm;
+    border-style: groove;
+    border-color: black;
+    border-radius: 1.0cm;
+    background-color:aquamarine;
+    border-width: 0.4cm;
+}
+body{
+    background-color: grey;
+}
+image{
+    size-adjust: 0.1rem;
+    size: 0.3cm;
+    border-radius: 0.3cm;
+    size: 0.1rem;
+    width: 0.2cm;
+    height: 0.2cm;
+}
+ul{ 
+    display: flex;justify-content: flex-start;flex-direction: column;
+}
+div{
+    display: flex;justify-content: flex-start;flex-direction: row;
+    padding:0.2cm;
+    padding-right: 0.1cm;
+    padding: 0.4cm;
+    background-color: grey;
+}
